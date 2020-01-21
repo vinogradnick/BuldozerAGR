@@ -1,0 +1,17 @@
+name: "server"
+site-setup:
+  load-type: 'hit'
+  address: "http://ya.ru"
+  schedule:
+    step-load:
+      start: 1
+      end: 10
+      duration: 1sec
+      step: 1
+
+
+
+
+
+
+
